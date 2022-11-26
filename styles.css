@@ -79,7 +79,6 @@ nav {
 .gamesList {
     margin-top: 30px;
     display: flex;
-    gap: 50px;
     text-align: center;
     list-style: none;
     justify-content: center;
@@ -93,10 +92,6 @@ nav {
     margin: 5em;
     font-size: 36px;
     font-style: italic;
-}
-
-.quote q {
-    margin-left: 20px;
 }
 
 .quote figcaption {
