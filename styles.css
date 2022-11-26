@@ -6,6 +6,7 @@ body {
 .logo {
     float: left;
     margin-left: 5.8em;
+    font-size: 25px;
 }
 
 .navList {
@@ -14,7 +15,7 @@ body {
     margin-right: 80px;
 }
 
-nav {
+header{
     align-items: center;
     background-color: #1f2937;
     color: white;
