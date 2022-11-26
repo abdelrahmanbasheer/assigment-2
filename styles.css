@@ -1,6 +1,5 @@
 body {
     font-family: "Roboto";
-
     margin: 0;
 }
 
@@ -15,10 +14,10 @@ body {
     margin-right: 80px;
 }
 
-.navbarDiv {
+nav {
     align-items: center;
     background-color: #1f2937;
-
+    color: white;
     display: flex;
     justify-content: space-between;
 }
@@ -57,16 +56,16 @@ body {
     border-color: white;
     background-color: #3882f9;
     margin-right: 10em;
-
+    margin-top: 20px;
 }
 
 .heroPhoto {
     height: 350px;
     width: 700px;
-    margin-left: 3.7em;
+    margin-left: 4.1em;
 }
 
-.hero p {
+.hero article {
     font-size: 18px;
     color: #e5e7eb;
 
@@ -95,11 +94,16 @@ body {
     font-size: 36px;
     font-style: italic;
 }
-.quote h6{
-    position: absolute;
-    left: 74%;
-    top:165%;
+
+.quote q {
+    margin-left: 20px;
 }
+
+.quote figcaption {
+    text-align: right;
+
+}
+
 .genresTitle {
     font-size: 36px;
     font-weight: bolder;
