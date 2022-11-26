@@ -1,0 +1,140 @@
+body{
+    font-family: "Roboto";
+    
+    margin: 0;
+}
+.logo{
+    float: left;
+    margin-left:5.8em;
+}
+.navList{
+    display: flex;
+    gap:20px;
+    margin-right: 80px;
+}
+.navbarDiv{   
+    align-items: center;
+    background-color: #1f2937;
+   
+    display: flex;
+    justify-content: space-between;
+}
+.sec-1{
+    color:white;
+    background-color: #1f2937;
+}
+.hero h1{
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: bolder;
+
+}
+.hero p{
+
+   
+}
+.hero{
+  
+    padding: 4rem;
+    margin-left: 5em;
+    display: flex;
+   
+}
+.hero-button{
+    
+   
+    color: white;
+   text-align: center;
+   display: inline-block;
+   font-size: 16px;
+  border: none;
+   cursor: pointer;
+   height: 30px;
+   border-radius: 6px;
+   width: 110px;
+   border-color: white;
+   background-color: #3882f9;
+   margin-right: 10em;
+
+}
+.heroPhoto{
+    height: 350px;
+    width:700px;
+    margin-left: 3.7em;
+}
+.hero p{
+font-size: 18px;
+color: #e5e7eb;
+
+}
+.gamesList img{
+width: 300px;
+height: 300px;
+}
+
+.gamesList{
+    margin-top: 30px;
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+.quote{
+    background-color: #e5e7eb;
+    padding: 2.5em;
+    text-align: center;
+    margin: 5em;
+    font-size: 36px;
+    font-style: italic;
+}
+.genresTitle{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-top: 70px;
+    text-align: center;
+}
+.cta{
+    background-color: #3882f9;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 7px;
+   
+}
+.sec-3{
+    padding:0 17em 0 17em;
+    color: white;
+  
+}
+.cta-list{
+    list-style: none;
+    padding-left: 10em;
+}
+.cta-button{
+    
+   
+    color: white;
+   text-align: center;
+   display: inline-block;
+   font-size: 16px;
+   border: 1px solid white;
+   cursor: pointer;
+   height: 30px;
+   border-radius: 6px;
+   width: 110px;
+   border-color: white;
+   background-color: #3882f9;
+   margin-right: 10em;
+    margin-top: 3em;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    background-color: #1f2937;
+    padding: 1em;
+    font-size: 10px;
+}
