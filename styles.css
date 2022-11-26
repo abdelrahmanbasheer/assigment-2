@@ -95,7 +95,11 @@ body {
     font-size: 36px;
     font-style: italic;
 }
-
+.quote h6{
+    position: absolute;
+    left: 74%;
+    top:165%;
+}
 .genresTitle {
     font-size: 36px;
     font-weight: bolder;
